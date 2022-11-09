@@ -1,32 +1,13 @@
-# Unit 11 Homework: Web Visualization Dashboard 
+Web Visualization Dashboard 
 
 ## Background
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
 
-  ![Images/landingResize.png](Images/landingResize.png)
-
-## Before You Begin
-
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local Git repository, add your HTML files along with three folders; `assets`, `Resources` and `visualizations`. 
-
-  * Include an `index.html` file in the main folder, which you will edit later and should be the landing page that a user first encounters when viewing your submission.
-
-  * Inside the `assets` folder, create two more folders: `css` and `images`, which you will use to store your CSS and image assets, respectively.
-
-  * The `Resources` folder should contain the CSV file with the data you are using for this website. The `visualizations` folder will contain the HTML pages that display your visualizations.
-
-4. Push the changes from Steps 1 through 3 to GitHub.
-
-5. Deploy to GitHub Pages. 
+  ![Images/landingResize.png](Images/landingResize.png) 
 
 ## Instructions 
-
-For this homework assignment, you'll create a website by using visualizations that were created in your Python-APIs homework, or you can use the [weather data](Resources/cities.csv) provided.
+create a website by using visualizations that were created in your Python-APIs homework, or you can use the [weather data](Resources/cities.csv) provided.
 
 As you build this dashboard, you'll create individual pages for each plot and a way to navigate between them. These pages will contain the visualizations and des. You will also build a landing page to provide a comparison of all the plots, along with another page to present the data used to build them.
 
